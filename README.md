@@ -1,2 +1,2 @@
-# PythonTips
-Some useful tips for python programming.
+# Python snippet
+Some useful snippet for python programming.
