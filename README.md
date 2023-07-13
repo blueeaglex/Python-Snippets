@@ -1,2 +1,2 @@
 # Python snippet
-Some useful snippet for python programming.
+Some useful snippets for python programming.
